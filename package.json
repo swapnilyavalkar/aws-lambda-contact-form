@@ -1,0 +1,10 @@
+{
+    "name": "contact-form-app",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "http-server -p 3000"
+    },
+    "dependencies": {
+      "http-server": "^14.0.0"
+    }
+  }
