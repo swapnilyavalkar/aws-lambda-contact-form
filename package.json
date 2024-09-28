@@ -6,6 +6,7 @@
     },
     "dependencies": {
         "aws-sdk": "^2.1691.0",
+        "contact-form-app": "file:",
         "http-server": "^14.0.0"
     }
 }
